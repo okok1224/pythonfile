@@ -1,0 +1,28 @@
+Supplier code: S1
+Supplier item: HC,FS
+Supplier name: KIM SEOKJIN
+Supplier Email: JIN@GMAIL.COM
+Supplier Location: KOREA
+Supplier Registration Date: 2022-05-06 23:55:51.280517
+==================================================================
+Supplier code: S2
+Supplier item: MS,GL
+Supplier name: SHOHEI OHTANI
+Supplier Email: SHOHEI@GMAIL.COM
+Supplier Location: JAPAN
+Supplier Registration Date: 2022-05-06 23:57:22.733838
+==================================================================
+Supplier code: S3
+Supplier item: GW
+Supplier name: LISA
+Supplier Email: LISA@GMAIL.COM
+Supplier Location: THAILAND
+Supplier Registration Date: 2022-05-06 23:58:28.615948
+==================================================================
+Supplier code: S4
+Supplier item: SC
+Supplier name: TAYLOR SWIFT
+Supplier Email: TAYLOR@GMAIL.COM
+Supplier Location: UNITED STATES
+Supplier Registration Date: 2022-05-07 00:00:12.047773
+==================================================================

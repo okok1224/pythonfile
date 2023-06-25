@@ -1,0 +1,10 @@
+Item:HC Supplier:S1 Added quantity:88
+==================================================
+Item:MS Supplier:S2 Added quantity:345
+==================================================
+Item:GW Supplier:S3 Added quantity:50
+Delivered Hospital:H2
+==================================================
+Item:SC Supplier:S4 Added quantity:24
+Delivered Hospital:H3
+==================================================

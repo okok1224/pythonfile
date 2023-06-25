@@ -1,0 +1,6 @@
+Item:	HC	Supplier:	S1	Amount:	188	
+Item:	FS	Supplier:	S1	Amount:	100	
+Item:	MS	Supplier:	S2	Amount:	445	
+Item:	GL	Supplier:	S2	Amount:	100	
+Item:	GW	Supplier:	S3	Amount:	50 	
+Item:	SC	Supplier:	S4	Amount:	76 	
